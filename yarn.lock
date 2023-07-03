@@ -1342,7 +1342,7 @@
     "@carbon/import-once" "^10.7.0"
     "@carbon/layout" "^10.37.1"
 
-"@carbon/icon-helpers@^10.28.0", "@carbon/icon-helpers@^10.40.0", "@carbon/icon-helpers@^10.41.0":
+"@carbon/icon-helpers@^10.28.0", "@carbon/icon-helpers@^10.41.0":
   version "10.41.0"
   resolved "https://registry.yarnpkg.com/@carbon/icon-helpers/-/icon-helpers-10.41.0.tgz#5a54ee962989405ab863ec4595b40b22bb78eef7"
   integrity sha512-bKMTigt0/WzlNRgQArHO2WF21bVP7Pur/8QQ9pwhIyYkKCdqEbB9b719iPZTOe5qBZAo4rS5+2pGvePf2E3cWQ==
